@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/conveter-2/precache-manifest.53f8939fbc8c68cecd5a47e95e1c68aa.js"
+  "/conveter-2/precache-manifest.28b566c611dbffa483935fe70b5bb373.js"
 );
 
 self.addEventListener('message', (event) => {
