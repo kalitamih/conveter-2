@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/conveter-2/static/js/main.e19a8439.chunk.js",
+    "main.js.map": "/conveter-2/static/js/main.e19a8439.chunk.js.map",
+    "runtime~main.js": "/conveter-2/static/js/runtime~main.ba59f02e.js",
+    "runtime~main.js.map": "/conveter-2/static/js/runtime~main.ba59f02e.js.map",
+    "static/js/2.2c847614.chunk.js": "/conveter-2/static/js/2.2c847614.chunk.js",
+    "static/js/2.2c847614.chunk.js.map": "/conveter-2/static/js/2.2c847614.chunk.js.map",
+    "index.html": "/conveter-2/index.html",
+    "precache-manifest.53f8939fbc8c68cecd5a47e95e1c68aa.js": "/conveter-2/precache-manifest.53f8939fbc8c68cecd5a47e95e1c68aa.js",
+    "service-worker.js": "/conveter-2/service-worker.js",
+    "static/media/currency.jpg": "/conveter-2/static/media/currency.4d066587.jpg"
+  }
+}
