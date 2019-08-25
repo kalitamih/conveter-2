@@ -301,7 +301,7 @@ const App: FC<AppType> = state => {
           disabled={loading || error.length !== 0}
         />
       </WrapperDown>
-      {error.length === 0 && (
+      {error.length === 0 && !loading && (
         <Rate>
           {sellRate}/{buyRate}
         </Rate>
